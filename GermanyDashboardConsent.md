@@ -1,0 +1,1 @@
+Hiermit willige ich in die anonyme Speicherung und Verarbeitung der Daten meines Kindes auf Servern der Stanford University (in Palo Alto, Kalifornien, USA) sowie auf Cloud-Servern, einschließlich Firebase und Google Cloud, gemäß den Datenschutzrichtlinien der Stanford Universität (Datenschutzstandards <https://uit.stanford.edu/guide/privacystandards#standards>) ein.
